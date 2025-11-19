@@ -1,0 +1,37 @@
+{
+    "student": [
+        {
+            "personalInformation": {
+                "name": {
+                    "firstname": "Rhea",
+                    "middleInitial": "S.",
+                    "surname": "Perolino"
+                },
+                "birthdate": ["October", 27, 2006],
+                "age": 19,
+                "civilStatus": "Married"
+             }
+        },
+        {
+            "contactInformation": {
+                "emailAddress": "Reyahbwahaha@gmail.com",
+                "phoneNumber": "09870002121"
+                 }
+        },
+        {
+            "academicInformation": {
+                "school": "SUNN",
+                "course": "BSIT",
+                "year": "2nd Year",
+                "studentID": "24-2400"
+                 }
+        },
+        {
+            "additionalInformation": {
+                "skills": "procrastinator and crammer",
+                "hobbies": "volleyball and idkball",
+                "achievements": "deans lister in my dreams"
+            }
+        }
+    ]
+}
