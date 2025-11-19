@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<person1>
+    <student>
+        <personalInformation>
+            <name>
+                <firstname>Rhea</firstname>
+                <middleInitial>S.</middleInitial>
+                <surname>Perolino</surname>
+            </name>
+            <birthdate>
+                <month>October</month>
+                <date>27</date>
+                <year>2006</year>
+            </birthdate>
+            <age>19</age>
+            <civilStatus>Married</civilStatus>
+        </personalInformation>
+
+        <contactInformation>
+            <emailAddress>Reyahbwahaha@gmail.com</emailAddress>
+            <phoneNumber>09870002121</phoneNumber>
+        </contactInformation>
+
+        <academicInformation>
+            <school>SUNN</school>
+            <course>BSIT</course>
+            <year>2nd Year</year>
+            <studentID>24-2400</studentID>
+        </academicInformation>
+
+        <additionalInformation>
+            <skills>procrastinator and crammer</skills>
+            <hobbies>volleyball and idkball</hobbies>
+            <achievements>deans lister in my dreams</achievements>
+        </additionalInformation>
+    </student>
+</person1>
